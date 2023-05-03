@@ -1,0 +1,2 @@
+Linux-6.1.14-200.fc37.x86_64-x86_64-with-glibc2.36 #1 SMP PREEMPT_DYNAMIC Sun Feb 26 00:13:26 UTC 2023
+Python 3.9.16
